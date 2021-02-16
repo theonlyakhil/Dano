@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ADC0 Pin=J2-2
+Removed Pin From Net: NetName=ADC1 Pin=J2-3
+Removed Pin From Net: NetName=ADC3 Pin=J2-5
+Removed Pin From Net: NetName=ADC4 Pin=J2-6
+Added Pin To Net: NetName=ADC4 Pin=J2-2
+Added Pin To Net: NetName=ADC3 Pin=J2-3
+Added Room: Name=Dano[01]

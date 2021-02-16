@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ADC7 Pin=J2-9
+Removed Pin From Net: NetName=RESET Pin=J2-10
+Removed Pin From Net: NetName=PB4 Pin=J3-11
+Removed Pin From Net: NetName=FT232_IO0 Pin=J3-12
+Added Pin To Net: NetName=PB4 Pin=J2-10
+Added Pin To Net: NetName=RESET Pin=J3-11
+Added Pin To Net: NetName=ADC5 Pin=J3-12
+Added Room: Name=Dano[01]

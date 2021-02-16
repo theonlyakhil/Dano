@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PB1 Pin=J2-12
+Removed Pin From Net: NetName=PB3 Pin=J2-14
+Added Pin To Net: NetName=PB3 Pin=J2-12
+Added Pin To Net: NetName=PB1 Pin=J2-14
+Added Room: Name=Dano[01]
