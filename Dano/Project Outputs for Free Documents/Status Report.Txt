@@ -1,0 +1,29 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:11:21 On 17-02-2021
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Dano_PCB.PcbDoc]
+   Generated File[Dano_PCB.GTO]
+   Generated File[Dano_PCB.GTP]
+   Generated File[Dano_PCB.GTS]
+   Generated File[Dano_PCB.GTL]
+   Generated File[Dano_PCB.GBL]
+   Generated File[Dano_PCB.GBS]
+   Generated File[Dano_PCB.GBP]
+   Generated File[Dano_PCB.GBO]
+   Generated File[Dano_PCB.GM1]
+   Generated File[Dano_PCB.GM3]
+   Generated File[Dano_PCB.GM13]
+   Generated File[Dano_PCB.GM15]
+   Generated File[Dano_PCB.GKO]
+   Generated File[Dano_PCB.RUL]
+   Generated File[Dano_PCB.EXTREP]
+   Generated File[Dano_PCB.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 21:11:23 On 17-02-2021
