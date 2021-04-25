@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:04:34 On 24-04-2021
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Dano_PCB.PcbDoc]
+   Generated File[Dano_PCB-RoundHoles.TXT]
+   Generated File[Dano_PCB-SlotHoles.TXT]
+   Generated File[Dano_PCB.LDP]
+   Generated File[Dano_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:04:35 On 24-04-2021
